@@ -15,6 +15,7 @@ Reparto sugerido: una persona narra y otra maneja el navegador.
 ## Antes de presentar (≈ 15 minutos antes)
 
 Hace falta tener el repositorio clonado y poder hacer `git push` a RicLagoria/PEF. **No hace falta el entorno de Python.**
+Todos los comandos de este archivo se corren **desde la raíz del repositorio** (la carpeta `PEF`, no `PEF/presentacion`).
 
 1. En una terminal, dentro del repositorio y en `master`:
 
